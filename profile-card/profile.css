@@ -22,7 +22,7 @@ body{
     max-width: 22rem;
     padding: 2rem 1.5rem;
     border-radius: 1rem;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.88);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
     text-align: center;
 }
 
